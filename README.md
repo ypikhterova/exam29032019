@@ -13,7 +13,6 @@ http://chromedriver.chromium.org/downloads and unzip it to project folder
 * Add DataProvider from https://www.mkyong.com/unittest/testng-parameter-testing-example/
 * Add to pom.xml import from https://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.8.1
 
-
 ---
 Also, need to configure IntelliJ IDEA:
 * Download and add chromedriver and configure its Path in project
